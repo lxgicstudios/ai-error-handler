@@ -1,7 +1,7 @@
 {
   "name": "ai-error-handler",
   "version": "1.0.0",
-  "description": "Generate error handling middleware for your framework using AI",
+  "description": "AI-powered error handler generator - smart try-catch and error boundaries with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-error-handler": "dist/cli.js"
@@ -9,7 +9,22 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["error-handling", "middleware", "express", "ai", "cli", "api"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "error-handling",
+    "try-catch",
+    "exceptions",
+    "debugging",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "middleware",
+    "logging"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
