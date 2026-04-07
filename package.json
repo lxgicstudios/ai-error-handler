@@ -1,5 +1,5 @@
 {
-  "name": "ai-error-handler",
+  "name": "@lxgicstudios/ai-error-handler",
   "version": "1.0.0",
   "description": "AI-powered error handler generator - smart try-catch and error boundaries with GPT",
   "main": "dist/index.js",
