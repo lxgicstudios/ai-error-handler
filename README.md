@@ -16,7 +16,7 @@
 
 # AI Error Handler
 
-solve specific development challenges with AI-powered insights.
+AI-powered error handler generator — smart try-catch blocks, error boundaries, and Express middleware. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-error-handler.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-error-handler)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-error-handler?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-error-handler)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered error handler generator - smart try-catch and error boundaries with GPT.
+> AI-powered error handler generator — smart try-catch and error boundaries with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
